@@ -2,10 +2,12 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"SublimeLinter-contrib-eslint"
 	],
 	"installed_packages":
 	[
 		"1337 Color Scheme",
+		"A File Icon",
 		"Babel",
 		"BracketHighlighter",
 		"DocBlockr",
@@ -18,7 +20,7 @@
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
-		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-eslint",
 		"SublimeLinter-json"
 	]
 }

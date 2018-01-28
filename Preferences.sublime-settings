@@ -3,6 +3,7 @@
 	"font_size": 10,
 	"ignored_packages":
 	[
+		"SublimeLinter-contrib-eslint",
 		"Vintage"
 	]
 }
